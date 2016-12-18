@@ -49,6 +49,15 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
   * Perceptual Losses for Real-Time Style Transfer and Super-Resolution (ECCV2016), Justin Johnson et al.
  * SRGAN [[PDF]](https://arxiv.org/abs/1609.04802)
   * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network, Christian Ledig et al.
+  * Implementations:
+    + [leehomyc](https://github.com/leehomyc/Photo-Realistic-Super-Resoluton) Torch
+    + [huangzehao](https://github.com/huangzehao/torch-srgan) Torch
+    + [anthonyyuan](https://github.com/anthonyyuan/SRGAN) Torch
+    + [junhocho](https://github.com/junhocho/SRGAN) Torch
+    + [zhixinshu](https://github.com/zhixinshu/torch-srgan) Torch
+    + [titu1994](https://github.com/titu1994/Super-Resolution-using-Generative-Adversarial-Networks) Keras with Theano backend
+    + [buriburisuri](https://github.com/buriburisuri/SRGAN) sugartensor by himself
+   
  * AffGAN [[PDF]](https://arxiv.org/pdf/1610.04490.pdf)
   * AMORTISED MAP INFERENCE FOR IMAGE SUPER-RESOLUTION, Casper Kaae Sønderby et al.
  * neural-enchance [[Github]](https://github.com/alexjc/neural-enhance)
