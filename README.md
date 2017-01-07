@@ -40,7 +40,7 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
   * Deeply-Recursive Convolutional Network for Image Super-Resolution (CVPR2016), Jiwon Kim et al. 
  * ESPCN [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Real-Time_Single_Image_CVPR_2016_paper.pdf)
   * Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network (CVPR2016), Wenzhe Shi et al.
-  * Is the deconvolution layer the same as a convolutional layer? [[PDF]](https://arxiv.org/ftp/arxiv/papers/1609/1609.07009.pdf)
+  * Is the deconvolution layer the same as a convolutional layer? [[PDF]](https://arxiv.org/abs/1609.07009)
  * FSRCNN [[Web]](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html)
   * Acclerating the Super-Resolution Convolutional Neural Network (ECCV2016), Dong Chao et al.
 
@@ -58,9 +58,17 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
     + [titu1994](https://github.com/titu1994/Super-Resolution-using-Generative-Adversarial-Networks) Keras with Theano backend
     + [buriburisuri](https://github.com/buriburisuri/SRGAN) sugartensor by himself
    
- * AffGAN [[PDF]](https://arxiv.org/pdf/1610.04490.pdf)
+ * AffGAN [[PDF]](https://arxiv.org/abs/1610.04490)
   * AMORTISED MAP INFERENCE FOR IMAGE SUPER-RESOLUTION, Casper Kaae Sønderby et al.
+ * EnhanceNet [[PDF]](https://arxiv.org/abs/1612.07919)
+  * EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis, Mehdi S. M. Sajjadi et al.
  * neural-enchance [[Github]](https://github.com/alexjc/neural-enhance)
+
+
+#### Video SR
+ * VESPCN [[PDF]](https://arxiv.org/abs/1611.05250)
+  * Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation
+ 
 
 ## Dicussion
 #### Deconvolution and Sub-Pixel Convolution
