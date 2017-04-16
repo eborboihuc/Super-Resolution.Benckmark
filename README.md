@@ -43,8 +43,14 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
   * Is the deconvolution layer the same as a convolutional layer? [[PDF]](https://arxiv.org/abs/1609.07009)
  * FSRCNN [[Web]](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html)
   * Acclerating the Super-Resolution Convolutional Neural Network (ECCV2016), Dong Chao et al.
+ * LapSRN [[Web]](http://vllab1.ucmerced.edu/~wlai24/LapSRN)
+  * Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution(CVPR17), Lai et al.
+  + [phoenix104104](https://github.com/phoenix104104/LapSRN)
 
 #### Perceptual Loss and GAN
+ * LapGAN [[PDF]](http://arxiv.org/abs/1506.05751)
+  * Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks(NIPS2015)
+  + [facebook](https://github.com/facebook/eyescream)
  * Perceptual Loss [[PDF]](http://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)
   * Perceptual Losses for Real-Time Style Transfer and Super-Resolution (ECCV2016), Justin Johnson et al.
  * SRGAN [[PDF]](https://arxiv.org/abs/1609.04802)
@@ -65,6 +71,10 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
  * neural-enchance [[Github]](https://github.com/alexjc/neural-enhance)
 
 
+#### Probability based
+ * Pixel Recursive Super Resolution [[PDF]](https://arxiv.org/abs/1702.00783)
+  + [nilboy](https://github.com/nilboy/pixel-recursive-super-resolution)
+
 #### Video SR
  * VESPCN [[PDF]](https://arxiv.org/abs/1611.05250)
   * Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation
@@ -79,19 +89,20 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
 ## Datasets
 
 | Test Dataset | Image source |
-|---- | ---|----|
+|:----:|:----:|
 | **Set 5** |  [Bevilacqua et al. BMVC 2012](http://people.rennes.inria.fr/Aline.Roumy/results/SR_BMVC12.html)  |
 | **Set 14** |  [Zeyde et al. LNCS 2010](https://sites.google.com/site/romanzeyde/research-interests)  |
 | **BSD 100** | [Martin et al. ICCV 2001](https://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/) |
 | **Urban 100** | [Huang et al. CVPR 2015](https://sites.google.com/site/jbhuang0604/publications/struct_sr)  |
 
 | Train Dataset | Image source |
-|---- | ---|----|
+|:----:|:----:|
 | **Yang 91** |  [Yang et al. CVPR 2008](http://www.ifp.illinois.edu/~jyang29/ScSR.htm)  |
 | **BSD 200** | [Martin et al. ICCV 2001](https://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/) |
 | **General 100** | [Dong et al. ECCV 2016](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html) |
 | **ImageNet** | [Olga Russakovsky et al. IJCV 2015](http://www.image-net.org/) |
 | **COCO**| [Tsung-Yi Lin et al. ECCV 2014](http://mscoco.org/)
+
 ## Quantitative comparisons
 Results from papers of VDSR, DRCN, CSCN and IA.
 
